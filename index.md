@@ -5,7 +5,7 @@ A super small group of Harker middle schoolers dedicated to building useful stud
 
 ## Our projects
 
-- **Schoology Assignemnt Notifications**: Be notified of upcoming assignemnts from schoology!
+- **Schoology Assignemnt Notifications**: Be notified of upcoming assignments from schoology!
   - Release date: Febuary 4, 2021
   - Team: 
     - [Aarush Vailaya](https://github.com/goombamaui)
@@ -35,3 +35,5 @@ A super small group of Harker middle schoolers dedicated to building useful stud
 
 - [Aarav Borthakur](https://github.com/gadhagod)
 - [Aarush Vailaya](https://github.com/goombamaui)
+
+We have more people joining us! If you want to join, please email [harker.hackers@gmail.com](mailto:harker.hackers@gmail.com).
