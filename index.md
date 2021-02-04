@@ -6,7 +6,7 @@ A super small group of Harker middle schoolers dedicated to building useful stud
 ## Our projects
 
 - **Schoology Assignemnt Notifications**: Be notified of upcoming assignemnts from schoology!
-  - Release date: Febuary 4, 2020
+  - Release date: Febuary 4, 2021
   - Team: 
     - [Aarush Vailaya](https://github.com/goombamaui)
     - [Aarav Borthakur](https://github.com/gadhagod)
