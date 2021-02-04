@@ -1,8 +1,3 @@
-# Harker Hackers
-A super small group of Harker middle schoolers dedicated to building useful student software.
-
-***
-
 ## Our projects
 
 - **Schoology Assignemnt Notifications**: Be notified of upcoming assignments from schoology!
