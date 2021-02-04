@@ -11,7 +11,9 @@
   - Links:
     - [Website](https://harker-schoology-notifications.herokuapp.com)
     - [GitHub](https://github.com/Harker-Hackers/assignment-notifications)
-    
+
+<br>
+
 - **Harker Updates**: A service that allows Harker Middle School students to see campus-wide information and be notified of new updates.
   - Release date: November 3, 2020
   - Team:
