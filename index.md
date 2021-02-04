@@ -33,7 +33,6 @@
 - [Aarav Borthakur](https://github.com/gadhagod): I am a python and ruby programmer that likes working on server-side webapps. I have experience in Flask, Rails, and Express.
   - Favorite project: [Hyrule Compendium API](https://github.com/gadhagod/Hyrule-Compendium-API)
   
-<br>
 
 - [Aarush Vailaya](https://github.com/goombamaui): I have no bio yet, but I like living. I spend my time not making bios. I hope to soon have this area populated with my programming interests.
   - Favorite project: [Threedgamedev](http://threedgamedev.herokuapp.com/)
